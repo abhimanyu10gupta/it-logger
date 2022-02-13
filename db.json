@@ -1,11 +1,11 @@
 {
   "logs": [
     {
-      "message": "Change Network Car in server 007",
-      "attention": true,
-      "tech": "Bruce Wayne",
-      "date": "2022-02-13T04:16:40.765Z",
-      "id": 2
+      "id": 2,
+      "message": "FIXED Change Network Car in server 007",
+      "attention": false,
+      "tech": "Tommy Shelby",
+      "date": "2022-02-13T05:09:42.121Z"
     }
   ],
   "techs": [
